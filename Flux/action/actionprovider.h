@@ -1,0 +1,4 @@
+#ifndef ACTIONPROVIDER_H
+#define ACTIONPROVIDER_H
+
+#endif // ACTIONPROVIDER_H
